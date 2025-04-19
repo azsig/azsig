@@ -17,7 +17,7 @@
 
 - 📧 Email: yasirabdulaziz@mail.ugm.ac.id
 - 🔗 LinkedIn: Yasir Abdulaziz (https://linkedin.com/in/yasirabdulaziz)
-- 🌐 Portfolio Website: azsig.github.io/azsig
+- 🌐 Portfolio Website: https://azsig.github.io/azsig
 
 ---
 
