@@ -1,0 +1,15 @@
+.space-x-4{
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.hero{
+    padding-top: 6rem;
+}
+
+@media (orientation: portrait){ 
+    .hero{
+        padding-top: 8rem;
+    }
+}
