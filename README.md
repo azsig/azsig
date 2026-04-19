@@ -28,6 +28,7 @@ Here are some of the projects I've built and deployed. Feel free to explore!
 | Project | Description | Live Preview | Repo |
 |--------|-------------|--------------|------|
 | **Portfolio Website** | Personal portfolio built with HTML, CSS, and JavaScript | [Live Site](https://azsig.github.io/azsig) | [Repo](https://github.com/azsig/azsig) |
+| **Katalog** | Catalog website | [Live Site](https://katalog.azsig.my.id/) | — |
 | **Todo App** | Simple and elegant todo list with localStorage | [Live Site](https://azsig.github.io/todoList-OdinP/) | [Repo](https://github.com/azsig/todoList-OdinP) |
 | **Weather App** | Weather forecast using OpenWeatherMap API | [Live Site](https://azsig.github.io/weatherApp-OdinP/) | [Repo](https://github.com/azsig/weatherApp-OdinP/) |
 
